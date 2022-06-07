@@ -48,4 +48,8 @@ changes, but you can see clearly in the index.htm and style.css .
 
 After the code modification, my study appeared like demo.png
 
-  "C:\Users\Lenovo\Desktop\UPENN-VIRT-FSF-PT-05-2022-U-LOLC\01-HTML-Git-CSS\02-Challenge\Develop\assets\images\demo.png"
+"C:\Users\Lenovo\Desktop\Weekly Project\1\Horiseon_refactor_project\assets\images\demo.png"
+
+## Webpage
+
+At least web page is https://pinaraktas.github.io/Horiseon_refactor_project/
