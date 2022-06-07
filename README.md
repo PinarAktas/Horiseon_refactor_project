@@ -43,6 +43,7 @@ changes, but you can see clearly in the index.htm and style.css .
 9 Some places I prefer to use <article> semantic element In stead of <div>.
 10 I add alt attribute to hold a txt description of the image.
 11 Some place I prefer to use <footer> semantic element In stead of <div>
+12 <a>is added for correct addressing
 
 ## Demo
 
